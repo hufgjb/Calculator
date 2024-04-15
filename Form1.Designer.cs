@@ -53,9 +53,9 @@
             // txtNumber
             // 
             this.txtNumber.Font = new System.Drawing.Font("微軟正黑體", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.txtNumber.Location = new System.Drawing.Point(47, 37);
+            this.txtNumber.Location = new System.Drawing.Point(31, 37);
             this.txtNumber.Name = "txtNumber";
-            this.txtNumber.Size = new System.Drawing.Size(803, 61);
+            this.txtNumber.Size = new System.Drawing.Size(804, 61);
             this.txtNumber.TabIndex = 0;
             this.txtNumber.Text = "0";
             // 
